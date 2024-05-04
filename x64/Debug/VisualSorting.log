@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\Vegas\source\repos\VisualSorting\VisualSorting\main.cpp(27,63): warning C4244: 'argument': conversion from 'const _Ty' to 'T', possible loss of data
+C:\Users\Vegas\source\repos\VisualSorting\VisualSorting\main.cpp(27,63): warning C4244:         with
+C:\Users\Vegas\source\repos\VisualSorting\VisualSorting\main.cpp(27,63): warning C4244:         [
+C:\Users\Vegas\source\repos\VisualSorting\VisualSorting\main.cpp(27,63): warning C4244:             _Ty=int
+C:\Users\Vegas\source\repos\VisualSorting\VisualSorting\main.cpp(27,63): warning C4244:         ]
+C:\Users\Vegas\source\repos\VisualSorting\VisualSorting\main.cpp(27,63): warning C4244:         and
+C:\Users\Vegas\source\repos\VisualSorting\VisualSorting\main.cpp(27,63): warning C4244:         [
+C:\Users\Vegas\source\repos\VisualSorting\VisualSorting\main.cpp(27,63): warning C4244:             T=float
+C:\Users\Vegas\source\repos\VisualSorting\VisualSorting\main.cpp(27,63): warning C4244:         ]
+C:\Users\Vegas\source\repos\VisualSorting\VisualSorting\main.cpp(28,67): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Users\Vegas\source\repos\VisualSorting\VisualSorting\main.cpp(28,67): warning C4244:         with
+C:\Users\Vegas\source\repos\VisualSorting\VisualSorting\main.cpp(28,67): warning C4244:         [
+C:\Users\Vegas\source\repos\VisualSorting\VisualSorting\main.cpp(28,67): warning C4244:             _Ty=int
+C:\Users\Vegas\source\repos\VisualSorting\VisualSorting\main.cpp(28,67): warning C4244:         ]
+C:\Users\Vegas\source\repos\VisualSorting\VisualSorting\main.cpp(28,28): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\Vegas\source\repos\VisualSorting\VisualSorting\main.cpp(84,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Vegas\source\repos\VisualSorting\VisualSorting\main.cpp(150,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  VisualSorting.vcxproj -> C:\Users\Vegas\source\repos\VisualSorting\x64\Debug\VisualSorting.exe
